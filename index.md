@@ -12,7 +12,7 @@ The IES was developed by the UK Government with contributions from Dstl, Ministr
 ### Implementation
 Documentation, resources, training
 
-[Implementation]([https://www.example.com](https://github.com/OliviaData/Page/blob/main/Implementation.md))
+[Implementation]([https://www.example.com](https://github.com/OliviaData/Page/blob/main/Implementation.md)
 
 ### Governance and Community
 View the governance process, submit a change proposal, or join the community
