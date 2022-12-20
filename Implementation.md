@@ -7,14 +7,19 @@ From v4.0.0, the IES is specified as an RDF Schema. RDF is a standard published 
 
 ### Release
 [IES 4.2 Specification](https://www.example.com)
+
 [Briefing Paper](https://www.example.com)
+
 [Release Notes](https://www.example.com)
 
 ### Training and Exemplars
 [Introduction to IES](https://www.example.com)
+
 [Exemplars](https://www.example.com)
+
 [Readme](https://www.example.com)
 
 ### Code
 [API](https://www.example.com)
+
 [Shacl Validation](https://www.example.com)
