@@ -10,7 +10,8 @@ Instead of having to translate between all local models, systems only have to kn
 Use of the Information Exchange Standard provides increased accuracy, faster ingestion, and standardised descriptions, resulting in faster and more accurate exchange of intelligence.
 
 [IES 4.2 Specification](https://www.example.com)
-![image](https://user-images.githubusercontent.com/105221870/211803762-420b839a-601f-4b63-aac0-e9bce77d30ca.png)
+
+![image](https://user-images.githubusercontent.com/105221870/211804491-abac4371-1c31-4627-81ae-48590d2786cf.png)
 ![image](https://user-images.githubusercontent.com/105221870/211350774-c088bb5d-fe56-42e9-a553-f0fe1f829eb5.png)
 
 ### Implementation
