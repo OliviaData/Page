@@ -5,7 +5,10 @@
 The Information Exchange Standard (IES) provides a common vocabulary for analysed intelligence to enable sharing between systems and organisations.
 
 The IES provides a lingua franca (common language) proving an intermediary language between systems, which may all store and model their data differently. 
+
 Instead of having to translate between all local models, systems only have to know how to translate from their own model to the IES, reducing the number of translations required for information exchange.
+
+![IES cloud diagrams](https://user-images.githubusercontent.com/105221870/211833945-5c5ff650-6e10-42ea-9441-d2461e803f37.png)
 
 Use of the Information Exchange Standard provides increased accuracy, faster ingestion, and standardised descriptions, resulting in faster and more accurate exchange of intelligence.
 
@@ -19,6 +22,7 @@ Get started with implementing IES with documentation, resources, and training.
 
 
 [Implementation](https://github.com/OliviaData/Page/blob/main/Implementation.md)
+
 ![image](https://user-images.githubusercontent.com/105221870/211350824-e2ab1692-8b8b-4c2b-adcb-9505a0503615.png)
 
 ### Governance and Community
@@ -26,4 +30,5 @@ View the governance process, submit a change proposal, or join the community to 
 
 
 [Governance and Community](https://www.example.com)
+
 ![image](https://user-images.githubusercontent.com/105221870/211350843-7eeef166-fad5-4636-a048-594c3c61b5f0.png)
