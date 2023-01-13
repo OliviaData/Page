@@ -4,9 +4,7 @@
 ### About
 The Information Exchange Standard (IES) provides a common vocabulary for analysed intelligence to enable sharing between systems and organisations.
 
-The IES provides a lingua franca (common language) proving an intermediary language between systems, which may all store and model their data differently. 
-
-Instead of having to translate between all local models, systems only have to know how to translate from their own model to the IES, reducing the number of translations required for information exchange.
+The IES provides a lingua franca (common language) proving an intermediary language between systems, which may all store and model their data differently. Instead of having to translate between all local models, systems only have to know how to translate from their own model to the IES, reducing the number of translations required for information exchange.
 
 Use of the Information Exchange Standard provides increased accuracy, faster ingestion, and standardised descriptions, resulting in faster and more accurate exchange of intelligence. [Learn more about the benefits of the IES](https://www.example.com)
 
