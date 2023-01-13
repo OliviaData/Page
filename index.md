@@ -8,7 +8,7 @@ The IES provides a lingua franca (common language) proving an intermediary langu
 
 Instead of having to translate between all local models, systems only have to know how to translate from their own model to the IES, reducing the number of translations required for information exchange.
 
-Use of the Information Exchange Standard provides increased accuracy, faster ingestion, and standardised descriptions, resulting in faster and more accurate exchange of intelligence.
+Use of the Information Exchange Standard provides increased accuracy, faster ingestion, and standardised descriptions, resulting in faster and more accurate exchange of intelligence. [Learn more about the benefits of the IES](https://www.example.com)
 
 [IES 4.2 Specification](https://www.example.com)
 
