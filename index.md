@@ -13,7 +13,7 @@ Use of the Information Exchange Standard provides increased accuracy, faster ing
 [IES 4.2 Specification](https://www.example.com)
 
 ![image](https://user-images.githubusercontent.com/105221870/211804491-abac4371-1c31-4627-81ae-48590d2786cf.png)
-![image](https://user-images.githubusercontent.com/105221870/211350774-c088bb5d-fe56-42e9-a553-f0fe1f829eb5.png)
+<img width="642" alt="divider" src="https://user-images.githubusercontent.com/105221870/212307609-e4b39ec9-7709-4a32-8d52-125f7e193261.PNG">
 
 ### Implementation
 Get started with implementing IES with documentation, resources, and training.
@@ -21,7 +21,7 @@ Get started with implementing IES with documentation, resources, and training.
 
 [Implementation](https://github.com/OliviaData/Page/blob/main/Implementation.md)
 
-![image](https://user-images.githubusercontent.com/105221870/211350824-e2ab1692-8b8b-4c2b-adcb-9505a0503615.png)
+<img width="642" alt="divider" src="https://user-images.githubusercontent.com/105221870/212307662-45a92e49-3ff7-4e51-b1c1-faa2511192c5.PNG">
 
 ### Governance and Community
 View the governance process, submit a change proposal, or join the community to learn more.
@@ -29,4 +29,4 @@ View the governance process, submit a change proposal, or join the community to 
 
 [Governance and Community](https://www.example.com)
 
-![image](https://user-images.githubusercontent.com/105221870/211350843-7eeef166-fad5-4636-a048-594c3c61b5f0.png)
+<img width="642" alt="divider" src="https://user-images.githubusercontent.com/105221870/212307739-1d801aa4-6234-4dc9-8b61-ab40c3b106f5.PNG">
