@@ -5,7 +5,7 @@
 The Information Exchange Standard (IES) provides a Lingua Franca (common language) for structured intelligence to make sharing between systems and organisations easier.
 
 #### Why is a Common Language important?
-Different knowledge stores may all store and model their data differently. Instead of having to translate between all local models, systems only have to know how to translate from their own model to the IES. This reduces the number of translations required for information exchange between systems and organisations.
+Different knowledge stores may all store and model their data differently. Instead of having to translate between local models, systems only have to know how to translate from their own model to the IES. This reduces the number of translations required for information exchange between systems and organisations.
 
 Use of the Information Exchange Standard provides increased accuracy, faster ingestion, and standardised descriptions, resulting in faster and more accurate exchange of intelligence. 
 
