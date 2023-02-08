@@ -3,7 +3,7 @@
 ## Tools, Documentation, and Resources for Successful Implementation of the IES
 
 ### IES RDF
-From v4.0.0, the IES is specified as an RDF Schema. 
+The IES is specified as an RDF Schema. 
 
 RDF is a standard published by the World Wide Web Consortium (W3C) and is the preferred data exchange format in UK Government. One of the major benefits of using RDF is that the W3C has specified a number of standard data serialisations which have been widely implemented in commercial and open source tools. This means that the IES specification no longer needs to specify its own serialisations. This does mean that any IES compliant interface should be able to read any of the W3C RDF standard serialisation formats. Given the amount of open-source RDF software that can already do this, that should not be a barrier to entry.
 
