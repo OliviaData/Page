@@ -9,7 +9,7 @@ Different knowledge stores may all store and model their data differently. Inste
 
 Use of the Information Exchange Standard provides precise and standardised definitions, resulting in faster and more accurate exchange of intelligence.
 
-[Learn more about the benefits of the IES](https://oliviadata.github.io/Page/Use%20Cases%20and%20Benefits)
+[Learn more about use cases and the benefits of the IES](https://oliviadata.github.io/Page/Use%20Cases%20and%20Benefits)
 
 ![image](https://user-images.githubusercontent.com/105221870/211804491-abac4371-1c31-4627-81ae-48590d2786cf.png)
 
