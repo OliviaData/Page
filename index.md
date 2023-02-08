@@ -29,6 +29,6 @@ Get started with IES implementation with documentation, resources, and training.
 View the governance process, submit a change proposal, or join the community to learn more about the IES.
 
 
-[Governance and Community]([https://www.example.com](https://oliviadata.github.io/Page/Governance%20and%20community))
+[Governance and Community]([https://www.example.com](https://oliviadata.github.io/Page/Governance))
 
 <img width="642" alt="divider" src="https://user-images.githubusercontent.com/105221870/212307739-1d801aa4-6234-4dc9-8b61-ab40c3b106f5.PNG">
