@@ -15,10 +15,3 @@ A comparison of point-to-point interfaces and the use of the IES is shown in the
 
 <img width="642" alt="divider" src="https://user-images.githubusercontent.com/105221870/212307609-e4b39ec9-7709-4a32-8d52-125f7e193261.PNG">
 
-### Synchronisation
-
-<img width="642" alt="divider" src="https://user-images.githubusercontent.com/105221870/212307609-e4b39ec9-7709-4a32-8d52-125f7e193261.PNG">
-
-### Storage
-
-<img width="642" alt="divider" src="https://user-images.githubusercontent.com/105221870/212307609-e4b39ec9-7709-4a32-8d52-125f7e193261.PNG">
